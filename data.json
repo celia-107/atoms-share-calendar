@@ -1,0 +1,80 @@
+{
+  "2026-10-12": {
+    "topic": "李祉延新人访谈 + 4 位 MTS Day 30 访谈分享｜探索脉脉渠道 2.0（使用指南 / 使用结果 / 未来计划）",
+    "person": "谢咏诗、谢卓盈｜刘倩华、谢咏诗",
+    "materials": [
+      "MTS 入职 30 天访谈分享｜李祉延",
+      "探索脉脉渠道 2.0 使用指南 / 结果 / 计划"
+    ],
+    "note": "访谈材料：https://deepwisdom.feishu.cn/docx/DSSAd1H4Xo0IHcxt7Hxchhygnjb\n脉脉材料：https://deepwisdom.feishu.cn/wiki/S1CAw90uyiyMcWke1tHcsd8Qnvh"
+  },
+  "2026-10-13": {
+    "topic": "行研｜如何超越 bytedance HR Team 之我见｜Full stack 岗笔试验收区：动因 / 1.5 月数据验收报告 / 所思所想 / HRP 部署",
+    "person": "谢卓盈、周肖雯｜敖雨晴",
+    "materials": [
+      "ByteDance HR Team 行研",
+      "1.5 月数据验收报告",
+      "HRP（Atoms HR 版 Vercel）部署"
+    ],
+    "note": "当天两场分享：行研与 Full stack 岗笔试验收。"
+  },
+  "2026-10-14": {
+    "topic": "Atoms HR IS ME 项目实践 + 7 个精品项规划合并 Claude 学习心得｜HR 杯子使用感受 & 升级为 Atoms HR 服务台之我见",
+    "person": "谢卓盈",
+    "materials": [
+      "Building Effective Human Agent Teams（Beta）",
+      "Atoms HR 服务台方案"
+    ],
+    "note": "当天两场分享，聚焦 HR IS ME 实践、精品项规划与服务台升级。"
+  },
+  "2026-10-16": {
+    "topic": "Atoms 视频剪辑团队在做什么：实习 / 外包 / 正式人员工作流与组织效能评估｜事在人为·招聘篇：Cursor AI 时代招聘方法与定向支持一周 KOL 实习岗",
+    "person": "林朝霞（另挑选 1 位同学）｜刘倩华",
+    "materials": [
+      "KOL 团队研究材料",
+      "Cursor 的 AI 时代招聘方法",
+      "人才工程师要求自己"
+    ],
+    "note": "视频剪辑场次建议严格参照 KOL 研究材料格式与切入方式。\nKOL：https://deepwisdom.feishu.cn/wiki/LrBmw2sOhiOmaxkZGa0ccZGAn7e\n团队材料：https://deepwisdom.feishu.cn/wiki/IibBwy0s8ifvWPkCgkacjSuunhg\n招聘心得：https://deepwisdom.feishu.cn/wiki/Ze3lwYkRKikfxzkLt5XckHJOnDb"
+  },
+  "2026-10-18": {
+    "topic": "9-10 双月招聘精品项：从返解 alex ego lite 到稳定运行，提高简历获取和 sourcing 效率｜事在人为·招聘篇：定向支持 2 周运维外包岗",
+    "person": "谢咏诗、林朝霞｜敖雨晴",
+    "materials": [
+      "招聘中台构想 draft",
+      "Cursor AI 时代招聘方法",
+      "人才工程师要求自己"
+    ],
+    "note": "当天两场分享：招聘精品项与雨晴的招聘方法知行合一。"
+  },
+  "2026-10-27": {
+    "topic": "事在人为·成长为更好的自己—招聘篇（正式员工）：以运维 / 测试 2 个外包岗为例",
+    "person": "林朝霞、谢咏诗",
+    "materials": [
+      "正式 / 外包配置与现存问题调研",
+      "招聘环节漏斗数据",
+      "人才工程师是什么、为什么、怎么做"
+    ],
+    "note": "BP 视角呈现组织配置、岗位根因、外包人员评估与使用，并完整呈现招聘漏斗。\n咏诗方法论：https://deepwisdom.feishu.cn/docx/EB4cdxsvsozIWFxro1WcCUMXn4g\n朝霞分享：https://deepwisdom.feishu.cn/wiki/Tw0ZwT28PiM4lcksQ2QcjEm6nbg"
+  },
+  "2026-10-28": {
+    "topic": "事在人为·成长为更好的自己—招聘篇：以定向支持产品技术工程师为例",
+    "person": "周肖雯",
+    "materials": [
+      "Cursor 的 AI 时代招聘方法",
+      "人才工程师要求自己",
+      "产品技术工程师定向支持复盘"
+    ],
+    "note": "双月末场次。"
+  },
+  "2026-10-29": {
+    "topic": "和学长向金涛的 deep talk：实习前世今生、HR 工种与实习生成长、AI native company 招聘中台、HR vibe coding 与 Grill me 20 问",
+    "person": "敖雨晴",
+    "materials": [
+      "Grill me 20 问",
+      "HR vibe coding 学习计划",
+      "金涛反问聪琪与邱翔"
+    ],
+    "note": "强烈建议提前爬楼查看提报原文，尽早准备。问题范围：金涛反问聪琪（无限）与邱翔（限 3 个）。"
+  }
+}
